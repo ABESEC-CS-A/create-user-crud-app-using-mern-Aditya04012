@@ -1,0 +1,8 @@
+.content{
+  width: 100vw;
+  height: 85vh;
+  background-color: gainsboro;
+  color: rgb(30, 27, 27);
+  text-align: center;
+  overflow-y:scroll;
+}
